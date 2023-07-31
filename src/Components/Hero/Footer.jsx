@@ -3,7 +3,7 @@ import './Footer.css'
 import Github from '../../assets/images/github.png'
 import Instagram from '../../assets/images/instagram.png'
 import Linkden from '../../assets/images/linkedin.png'
-import herologo from '../../assets/images/herologo.png'
+import herologo from '../../assets/images/Flex Trainer logo.png'
 const Footer = () => {
   return (
     <div className="footerr">
